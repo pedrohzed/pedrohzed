@@ -2,8 +2,7 @@
 
 **`Estudante de programação`**
 
-Me chamo Pedro Henrique, tenho 14 anos e tenho o sonho de me tornar um desenvolvedor full stack, adoro resolver problemas com programação e automação e faço parte da behring academy.
-<a href="https://behring.academy/">
+Hi, my name is Pedro Henrique, I'm 14 years old and my dream is to be a full-stack developer. I'm from Behring academy <a href="https://behring.academy/">
 
 
 ### 🤖 Linguagens e Tecnologias
