@@ -5,7 +5,7 @@
 Hi, my name is Pedro Henrique, I'm 14 years old and my dream is to be a full-stack developer. I'm from Behring academy <a href="https://behring.academy/">
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and tecnologies
 
 <img 
     align="left" 
@@ -48,6 +48,8 @@ Hi, my name is Pedro Henrique, I'm 14 years old and my dream is to be a full-sta
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+
 
 <br/>
 <br/>
