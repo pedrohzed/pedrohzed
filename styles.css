@@ -38,7 +38,27 @@ body {
 h2 {
    color: dodgerblue;
    font-weight: bold;
+   font-size: 1.6rem;
+   margin-top: 1.6rem;
 }
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.8);
+}
+
+footer a:hover,
+footer a:focus {
+  color: #f8fafc;
+  border-bottom-color: #ffffff;
+}
+
 header {
     text-align: center;
     font-weight: bold;
@@ -48,7 +68,4 @@ header {
 .container {
   display: flex;
   gap: 70px;
-}
-footer{
-  text-align: center;
 }
