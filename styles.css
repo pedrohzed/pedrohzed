@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-
+main{
+  text-align: left;
+  font-family: 'Inter', sans-serif;
+}
 body {
   font-family: 'Inter', sans-serif;
+  color: black;
+  background-color: aliceblue;
 }
 
 h2 {
