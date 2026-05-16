@@ -1,12 +1,38 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 main{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
   text-align: left;
   font-family: 'Inter', sans-serif;
 }
 body {
+  margin: 0;
   font-family: 'Inter', sans-serif;
   color: black;
   background-color: aliceblue;
+}
+
+#main-title {
+  font-size: 2.4rem;
+  color: #1d4ed8;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.profile-image {
+  width: 250px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px;
+}
+
+.highlight {
+  background-color: rgba(30, 144, 255, 0.12);
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
+  margin-bottom: 0.4rem;
+  display: inline-block;
 }
 
 h2 {
